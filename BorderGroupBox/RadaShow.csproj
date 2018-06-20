@@ -53,12 +53,6 @@
     <Compile Include="cb.Designer.cs">
       <DependentUpon>cb.cs</DependentUpon>
     </Compile>
-    <Compile Include="CircleCb.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="CircleCb.Designer.cs">
-      <DependentUpon>CircleCb.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
