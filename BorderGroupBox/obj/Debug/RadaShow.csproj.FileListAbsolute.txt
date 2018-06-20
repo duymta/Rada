@@ -1,0 +1,14 @@
+D:\Le\BorderGroupBox\bin\Debug\BorderGroupBox.exe.config
+D:\Le\BorderGroupBox\obj\Debug\BorderGroupBox.exe
+D:\Le\BorderGroupBox\obj\Debug\BorderGroupBox.pdb
+D:\Rada\Rada\BorderGroupBox\bin\Debug\BorderGroupBox.exe.config
+D:\Rada\Rada\BorderGroupBox\obj\Debug\BorderGroupBox.exe
+D:\Rada\Rada\BorderGroupBox\obj\Debug\BorderGroupBox.pdb
+D:\Rada\Rada\BorderGroupBox\bin\Debug\BorderGroupBox.exe
+D:\Rada\Rada\BorderGroupBox\bin\Debug\BorderGroupBox.pdb
+D:\Rada\Rada\BorderGroupBox\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Rada\Rada\BorderGroupBox\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Rada\Rada\BorderGroupBox\obj\Debug\RadaShow.csprojResolveAssemblyReference.cache
+D:\Rada\Rada\BorderGroupBox\obj\Debug\BorderGroupBox.frmMain.resources
+D:\Rada\Rada\BorderGroupBox\obj\Debug\BorderGroupBox.Properties.Resources.resources
+D:\Rada\Rada\BorderGroupBox\obj\Debug\RadaShow.csproj.GenerateResource.Cache
