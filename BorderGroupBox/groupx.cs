@@ -53,6 +53,8 @@ namespace BorderGroupBox
             g.DrawLine(borderPen1, new Point(rect.X, rect.Y), new Point(rect.X + this.Padding.Left, rect.Y));
             //Top2
             g.DrawLine(borderPen1, new Point(rect.X + this.Padding.Left + (int)(strSize.Width), rect.Y), new Point(rect.X + rect.Width, rect.Y));
+            Pen de = new Pen(Color.Black, 1);
+            g.DrawLine(de, new Point(rect.X + this.Padding.Left + (int)(strSize.Width), rect.Y-1), new Point(rect.X + rect.Width, rect.Y-1));
 
             //Rectangle Rect = new Rectangle(0, 0, this.Width, this.Height);
             ////GraphicsPath GraphPath = new GraphicsPath();

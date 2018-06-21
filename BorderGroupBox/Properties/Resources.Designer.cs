@@ -73,9 +73,59 @@ namespace BorderGroupBox.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap if_icon_pause_211871 {
+            get {
+                object obj = ResourceManager.GetObject("if_icon-pause_211871", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap if_internet_earth_61632 {
             get {
                 object obj = ResourceManager.GetObject("if_internet_earth_61632", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap if_on_off_42283 {
+            get {
+                object obj = ResourceManager.GetObject("if_on-off_42283", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap if_POWER___RESTART_16946 {
+            get {
+                object obj = ResourceManager.GetObject("if_POWER - RESTART_16946", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap if_radio_tower_298855 {
+            get {
+                object obj = ResourceManager.GetObject("if_radio-tower_298855", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap if_v_5_3162598 {
+            get {
+                object obj = ResourceManager.GetObject("if_v-5_3162598", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

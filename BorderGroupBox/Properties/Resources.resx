@@ -118,16 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="if_world_49737" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\if_world_49737.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="if_arrow-single-down-green_19746" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\if_arrow-single-down-green_19746.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_icon-pause_211871" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_icon-pause_211871.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_POWER - RESTART_16946" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_POWER - RESTART_16946.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_on-off_42283" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_on-off_42283.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_radio-tower_298855" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_radio-tower_298855.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="iTutor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\iTutor.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="if_internet_earth_61632" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\if_internet_earth_61632.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_world_49737" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_world_49737.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_v-5_3162598" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_v-5_3162598.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

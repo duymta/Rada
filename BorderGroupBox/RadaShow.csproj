@@ -105,6 +105,21 @@
   <ItemGroup>
     <None Include="Resources\if_internet_earth_61632.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_icon-pause_211871.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_on-off_42283.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_radio-tower_298855.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_POWER - RESTART_16946.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_v-5_3162598.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
